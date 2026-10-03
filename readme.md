@@ -342,6 +342,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
+* [WhatsApp Auto-Responder](https://github.com/Prince-nebhwani/WhatsApp-Auto-Responder) - Smart WhatsApp auto-responder built with Jetpack Compose and Google Gemini AI.
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
